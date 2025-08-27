@@ -1,3 +1,4 @@
+#APP- https://ai-powered-life-event-predictor-me2gcnrjqu93kdnso5hjav.streamlit.app/
 # AI-Powered-Life-Event-Predictor
 # 🧠 AI-Powered Life Event Predictor
 
